@@ -1,3 +1,5 @@
+alert('Add Two Numbers');
+
 function addNumbers() {
 
     var num1 = document.getElementById("num1").value;
